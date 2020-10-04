@@ -21,6 +21,6 @@
 <a href="https://www.hackerearth.com/h4sh_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="h4sh_19" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legitbeep&layout=compact" alt="legitbeep" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legitbeep&layout=compact" alt="legitbeep" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legitbeep&show_icons=true" alt="legitbeep" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legitbeep&show_icons=true" alt="legitbeep" /></p>
