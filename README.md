@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Hacktoberfest Repos**
+- 👯 I’m looking to collaborate on **Open Source Projects/Ideas**
 
 - 💬 Ask me about **C++ , C**
 
