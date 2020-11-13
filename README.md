@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legitbeep" alt="legitbeep" /> </p>
 
-- 🔭 I’m currently working on **Path finding visualizer**
+- 🔭 I’m currently working on **Cellular Automata**
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Open Source Projects/Ideas**
+- 👯 I’m looking to collaborate on **Project Ideas**
 
 - 💬 Ask me about **C++ , C**
 
