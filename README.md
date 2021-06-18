@@ -2,15 +2,10 @@
 <h1 align="center" >I'm Harsh Yadav</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=legitbeep" alt="legitbeep" /> </p>
 
-- 🔭 I’m currently working on **Cellular Automata**
+- 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Github**
-
-- 💬 Ask me about **C++ , C**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **glortoharsh@gmail.com**
 
