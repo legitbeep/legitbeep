@@ -16,4 +16,5 @@
 <a href="https://www.leetcode.com/h4sh_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="h4sh_19" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/h4sh_19"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="h4sh_19" height="30" width="40" /></a>
 </p>
-<a href="https://app.daily.dev/legitbeep"><img src="https://api.daily.dev/devcards/1dd55ef113e245d2a4f252dcd82d65d7.png?r=yvw" width="400" alt="Harsh Yadav's Dev Card"/></a>
+<a href="https://portfolio-dipqsa0m7-legitbeep.vercel.app/"><img src="https://api.daily.dev/devcards/1dd55ef113e245d2a4f252dcd82d65d7.png?r=yvw" width="400" alt="Harsh Yadav's Dev Card"/></a>
+<a href="https://portfolio-dipqsa0m7-legitbeep.vercel.app/">♥ My Portfolio ♥</a>
