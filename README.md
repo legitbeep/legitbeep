@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **PWA**
+
+- 👌 Call me out to collaborate on a PWA project in react.
 
 - 📫 How to reach me **glortoharsh@gmail.com**
 
