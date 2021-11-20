@@ -21,7 +21,7 @@
   </div>
   
 
-  <div ><a href="https://portfolio-ten-pi-47.vercel.app/"><img src="https://api.daily.dev/devcards/1dd55ef113e245d2a4f252dcd82d65d7.png?r=w9y" width="400" alt="Harsh Yadav's Dev Card"/></a>
+  <div ><a href="https://portfolio-ten-pi-47.vercel.app/"><img src="https://api.daily.dev/devcards/1dd55ef113e245d2a4f252dcd82d65d7.png?r=pdk" width="400" alt="Harsh Yadav's Dev Card"/></a>
 <div style="display:flex;justify-content:center;align-items:center;width:100%">
   <a href="https://portfolio-ten-pi-47.vercel.app/"><button>Know More 📜</button></a>
   </div>
