@@ -6,9 +6,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
- I’m currently working on **React**
-
- I’m currently learning **PWA**
+ I’m currently working on **React / Next**
+ I’m currently learning **PWA / Typescript**
 
 <p align="center">
     <h1></h1>
